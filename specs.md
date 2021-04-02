@@ -18,6 +18,7 @@ Very Informal Specification Document
 
 * External libraries (even those other than the included jQuery) may be used and included
 * Upon mouse over, companies with over 50 000 € in sales must have their names painted with green background, and those with less than that with an orange background.
+
 ** The contacts for the mouse-overed company must also be highlit in yellow but only if they have more than 3 orders and more than 50 000 € in sales
 * Some users complain that the application does not look very good. Is there something that could be done about that?
 * Some users also use the application on mobile devices but it doesn't work very good there. Is that fixable or should we buy those users new tablets instead?
